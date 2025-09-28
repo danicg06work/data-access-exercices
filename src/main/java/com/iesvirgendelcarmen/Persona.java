@@ -81,10 +81,12 @@ public class Persona {
             ", apellidos='" + getApellidos() + "'" +
             ", telefono='" + getTelefono() + "'" +
             ", email='" + getEmail() + "'" +
-            ", genero='" + getGenero() + "'" +
-            "-";
+            ", genero='" + getGenero() + "'" 
+            ;
     }
 
 }
+
+
 
    
